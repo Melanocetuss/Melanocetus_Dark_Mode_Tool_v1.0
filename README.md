@@ -1,1 +1,1 @@
-![resim](readmeImage/12.png)
+![resim](Preview.png)
